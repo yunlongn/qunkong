@@ -1,0 +1,17 @@
+.DS_Store
+*.zip
+*.log
+*.ign.*
+LockScreen.js
+ExternalUnlockDevice.js
+能量雨收集-phone.js
+.lhignore
+.lh/
+*.txt
+*.txt.*
+*.db
+logs/
+unit/小米运动刷步数.js
+lib/FakeWalkDataUtil.js
+*.onnx
+trainData/

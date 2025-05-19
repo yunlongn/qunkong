@@ -57,6 +57,7 @@ console.log("评论按钮点击是否成功===============>>>>" + res);
 // var like = descStartsWith('未选中').visibleToUser().findOne().click();
 // log(like);
 
+log("开始--");
 var like = descStartsWith('未选中，喜欢').visibleToUser().findOne().click();
 log(like);
 
